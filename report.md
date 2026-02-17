@@ -1,6 +1,8 @@
 # Word Processing Assignment Report
 
-**Code Repository:** [GitHub Link - To be added]
+2023101074 - Krish Jalan
+
+**Code Repository:** [GitHub Link](https://github.com/etude11/Word-Processing-Assignment.git)
 
 ---
 
